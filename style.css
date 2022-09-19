@@ -18,7 +18,7 @@ nav{
     width: 100%;
 }
 .title h1{
-    margin: 200px 0 0px 0px;
+    margin: 170px 0 0px 0px;
     text-align: center;
     display: block;
     font-weight: 900;
@@ -189,7 +189,9 @@ footer{
 
     @media(max-width: 576px){
    
-           
+           .row{
+            width: 100%;
+           }
             nav{
                 width: 100%;
                 position: fixed;
@@ -197,6 +199,7 @@ footer{
              
             .card-1, .card-2, .card-3{
                 width: 100%;
+                margin-left: 3%;
             }
             .card-1{
                 position: relative;
@@ -233,7 +236,7 @@ footer{
             .warn{
                 margin-top: 195px;
                 position: relative;
-                left: 9px;
+                left: 19px;
             
         }
         .title2 h1{
