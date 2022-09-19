@@ -222,8 +222,8 @@ footer{
             }
             #controls-carousel{
                 margin: 10px;
-                width: 100%;
-                padding: 10px;
+                width: 90%;
+                padding: 8px;
                 position: relative;
                 top: 45px;
             }
@@ -236,7 +236,7 @@ footer{
             .warn{
                 margin-top: 195px;
                 position: relative;
-                left: 19px;
+                left: 15px;
             
         }
         .title2 h1{
@@ -256,13 +256,16 @@ footer{
             left: 0px;
         }
         footer{
-            margin: 20px 0px 0px 12px ;
+            margin: 20px 0px 0px 0px ;
         }
 
         /* carrousel controls */
 
         .right-0{
-            margin-left: 142px;
+            margin-left: 132px;
+        }
+        .fpm{
+            margin-left: -20px;
         }
         video{
             position: relative;
