@@ -147,17 +147,19 @@ footer{
                 position: relative;
                 top: 7px;
                 left: 170px;
-                height: 450px;
+                height: 590px;
             }
             .card-2{
                 position: relative;
                 top: 7px;
                 left: 330px;
+                height: 590px;
             }
             .card-3{
                 position: relative;
                 top: 7px;
                 left: 490px;
+                height: 590px;
             }
             .cards{
                 position: relative;
